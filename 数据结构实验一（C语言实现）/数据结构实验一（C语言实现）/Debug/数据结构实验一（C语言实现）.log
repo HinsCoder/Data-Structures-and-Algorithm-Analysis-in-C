@@ -1,0 +1,8 @@
+﻿  SqList.c
+C:\Users\Hans\source\repos\数据结构实验一（C语言实现）\数据结构实验一（C语言实现）\SqList.c(38,46): warning C4028: 形参 3 与声明不同
+  test.c
+C:\Users\Hans\source\repos\数据结构实验一（C语言实现）\数据结构实验一（C语言实现）\test.c(16,24): warning C4047: “函数”:“ElemType”与“ElemType *”的间接级别不同
+C:\Users\Hans\source\repos\数据结构实验一（C语言实现）\数据结构实验一（C语言实现）\test.c(16,22): warning C4024: “GetElem_Sq”: 形参和实参 3 的类型不同
+C:\Users\Hans\source\repos\数据结构实验一（C语言实现）\数据结构实验一（C语言实现）\test.c(5,18): warning C4101: “Sq”: 未引用的局部变量
+  正在生成代码...
+  数据结构实验一（C语言实现）.vcxproj -> C:\Users\Hans\source\repos\数据结构实验一（C语言实现）\Debug\数据结构实验一（C语言实现）.exe

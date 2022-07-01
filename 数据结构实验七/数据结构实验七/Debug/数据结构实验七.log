@@ -1,0 +1,7 @@
+﻿  test.c
+C:\Users\Hans\source\repos\数据结构实验七\数据结构实验七\test.c(176,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“QueuePtr”
+C:\Users\Hans\source\repos\数据结构实验七\数据结构实验七\test.c(176,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“QueuePtr”
+C:\Users\Hans\source\repos\数据结构实验七\数据结构实验七\test.c(176,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“QNode *”
+C:\Users\Hans\source\repos\数据结构实验七\数据结构实验七\test.c(178,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“QueuePtr”
+C:\Users\Hans\source\repos\数据结构实验七\数据结构实验七\test.c(178,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“QueuePtr”
+  数据结构实验七.vcxproj -> C:\Users\Hans\source\repos\数据结构实验七\Debug\数据结构实验七.exe

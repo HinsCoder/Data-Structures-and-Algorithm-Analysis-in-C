@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\Hans\source\repos\数据结构实验十\数据结构实验十\test.cpp(74,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Hans\source\repos\数据结构实验十\数据结构实验十\test.cpp(75,26): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  数据结构实验十.vcxproj -> C:\Users\Hans\source\repos\数据结构实验十\Debug\数据结构实验十.exe

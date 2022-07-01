@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\Hans\source\repos\数据结构实验十四\数据结构实验十四\test.c(67,35): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\Hans\source\repos\数据结构实验十四\数据结构实验十四\test.c(67,35): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  数据结构实验十四.vcxproj -> C:\Users\Hans\source\repos\数据结构实验十四\Debug\数据结构实验十四.exe

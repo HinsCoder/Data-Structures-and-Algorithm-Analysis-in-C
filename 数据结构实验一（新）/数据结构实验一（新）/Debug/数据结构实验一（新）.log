@@ -1,0 +1,6 @@
+﻿  SqList.c
+  test.c
+  正在生成代码...
+C:\Users\Hans\source\repos\数据结构实验一（新）\数据结构实验一（新）\SqList.c(31): warning C4716: “GetElem”: 必须返回一个值
+C:\Users\Hans\source\repos\数据结构实验一（新）\数据结构实验一（新）\SqList.c(80): warning C4716: “ListDelete”: 必须返回一个值
+  数据结构实验一（新）.vcxproj -> C:\Users\Hans\source\repos\数据结构实验一（新）\Debug\数据结构实验一（新）.exe

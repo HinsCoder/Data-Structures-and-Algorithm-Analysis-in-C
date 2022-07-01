@@ -1,0 +1,18 @@
+﻿  校园歌手大赛系统测试.c
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(26,31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(30,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(36,31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(40,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(46,37): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(69,13): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(144,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(148,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(154,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(158,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(164,35): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(253,31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(257,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(263,31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(267,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\校园歌手大赛系统测试\校园歌手大赛系统测试\校园歌手大赛系统测试.c(273,37): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  校园歌手大赛系统测试.vcxproj -> C:\Users\Hans\source\repos\校园歌手大赛系统测试\Debug\校园歌手大赛系统测试.exe

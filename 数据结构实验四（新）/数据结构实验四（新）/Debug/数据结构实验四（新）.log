@@ -1,0 +1,11 @@
+﻿  LinkList.c
+C:\Users\Hans\source\repos\数据结构实验四（新）\数据结构实验四（新）\LinkList.c(130,12): warning C4013: “time”未定义；假设外部返回 int
+C:\Users\Hans\source\repos\数据结构实验四（新）\数据结构实验四（新）\LinkList.c(180,23): warning C4028: 形参 1 与声明不同
+C:\Users\Hans\source\repos\数据结构实验四（新）\数据结构实验四（新）\LinkList.c(191,10): warning C4477: “printf”: 格式字符串“%g”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\Hans\source\repos\数据结构实验四（新）\数据结构实验四（新）\LinkList.c(191,10): warning C4477: “printf”: 格式字符串“%g”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+C:\Users\Hans\source\repos\数据结构实验四（新）\数据结构实验四（新）\LinkList.c(182,11): warning C4101: “e”: 未引用的局部变量
+  test.c
+C:\Users\Hans\source\repos\数据结构实验四（新）\数据结构实验四（新）\test.c(20,11): warning C4047: “函数”:“LinkList *”与“LinkList”的间接级别不同
+C:\Users\Hans\source\repos\数据结构实验四（新）\数据结构实验四（新）\test.c(20,10): warning C4024: “deletes”: 形参和实参 1 的类型不同
+  正在生成代码...
+  数据结构实验四（新）.vcxproj -> C:\Users\Hans\source\repos\数据结构实验四（新）\Debug\数据结构实验四（新）.exe

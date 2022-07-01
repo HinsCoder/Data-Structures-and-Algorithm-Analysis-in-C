@@ -1,0 +1,6 @@
+﻿  LinkStack.c
+  SqStack.c
+  test.c
+C:\Users\Hans\source\repos\数据结构实验五（新）\数据结构实验五（新）\test.c(8,10): warning C4101: “e”: 未引用的局部变量
+  正在生成代码...
+  数据结构实验五（新）.vcxproj -> C:\Users\Hans\source\repos\数据结构实验五（新）\Debug\数据结构实验五（新）.exe

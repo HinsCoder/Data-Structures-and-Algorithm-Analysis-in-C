@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\Hans\source\repos\数据结构实验十三（新）\数据结构实验十三（新）\test.c(4,18): warning C4101: “k”: 未引用的局部变量
+C:\Users\Hans\source\repos\数据结构实验十三（新）\数据结构实验十三（新）\test.c(4,15): warning C4101: “w”: 未引用的局部变量
+  数据结构实验十三（新）.vcxproj -> C:\Users\Hans\source\repos\数据结构实验十三（新）\Debug\数据结构实验十三（新）.exe
